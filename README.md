@@ -1,2 +1,2 @@
-# Python_Web_Scraping_Cookbook
+# Python Web Scraping Cookbook
 Repositório de Estudos sobre Web Scraping
